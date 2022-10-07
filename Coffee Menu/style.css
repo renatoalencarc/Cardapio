@@ -56,8 +56,12 @@ hr {
     margin-top: -10px;
 }
 
-.linkSpace {
+.linkSpacePT {
     padding-left: 40%;
+}
+
+.linkSpacePT {
+    padding-left: 36%;
 }
 
 .estSpace {
